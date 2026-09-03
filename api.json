@@ -1,5 +1,5 @@
 {
-  "status": "nao",
-  "titulo": "Acesso Bloqueado",
-  "mensagem": "Este programa foi desativado pelo servidor."
+  "status": "sim",
+  "titulo": "Acesso Liberado",
+  "mensagem": "Programa liberado para uso."
 }
